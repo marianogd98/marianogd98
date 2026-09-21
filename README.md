@@ -57,8 +57,8 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
         <!-- Reemplaza el src con la URL de la captura de pantalla de tu proyecto -->
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600&auto=format&fit=crop" width="100%" alt="Preview Servi Suite">
       </a>
-      <b><a href="https://gitlab.com/marianogd98/servi-suite-project">Servi Suite (Open Source Helpdesk)</a></b>
-      <i>Laravel 12, Filament 4, Docker, Vite</i><br />
+      <b><a href="https://gitlab.com/marianogd98/servi-suite-project">Servi Suite (Open Source Helpdesk)</a></b><br />
+      <i>Laravel 12, Filament 4, Docker, Vite</i><br /><br />
       An open-source helpdesk platform built from scratch for comprehensive service and repair management. Features a robust architecture supporting ticket workflows and state automation.
     </td>
     <!-- Tarjeta Proyecto 2 -->
@@ -67,8 +67,8 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
         <!-- Reemplaza el src con la URL de la captura de pantalla de tu proyecto -->
         <img src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=600&auto=format&fit=crop" width="100%" alt="Preview UNIMAR">
       </a>
-      <b><a href="https://www.unimar.edu.ve">Web Platform - Universidad de Margarita</a></b>
-      <i>Software Architecture, DB Optimization, Clean Code</i><br />
+      <b><a href="https://www.unimar.edu.ve">Web Platform - Universidad de Margarita</a></b><br />
+      <i>Software Architecture, DB Optimization, Clean Code</i><br /><br />
       Redesign of the corporate database structure and core system logic. Implemented SOLID principles to refactor controllers, reducing redundancy by 60% and improving access speed by 80%.
     </td>
   </tr>
@@ -80,10 +80,13 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianogd98&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&text_color=777BB4&icon_color=2496ED" height="165" alt="Mariano's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianogd98&layout=compact&theme=transparent&hide_border=true&title_color=2496ED&text_color=777BB4" height="165" alt="Top Languages" />
+  <a href="https://github.com/marianogd98?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=marianogd98&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=false" height="165" alt="Mariano's Stats" />
+  </a>
+  <a href="https://github.com/marianogd98?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianogd98&layout=compact&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&hide_border=false" height="165" alt="Top Languages" />
+  </a>
 </div>
-
 ---
 
 ### 📫 Let's Connect!

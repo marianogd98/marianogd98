@@ -53,12 +53,12 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
   <tr>
     <!-- Tarjeta Proyecto 1 -->
     <td width="50%" valign="top">
-      <a href="[URL_DEL_PROYECTO_O_REPOSITORIO_1](https://gitlab.com/marianogd98/servi-suite-project)">
+      <a href="https://gitlab.com/marianogd98/servi-suite-project">
         <!-- Reemplaza el src con la URL de la captura de pantalla de tu proyecto -->
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600&auto=format&fit=crop" width="100%" alt="Preview Servi Suite">
       </a>
-      <b><a href="[URL_DEL_PROYECTO_O_REPOSITORIO_1](https://gitlab.com/marianogd98/servi-suite-project)">Servi Suite (Open Source Helpdesk)</a></b>
-      <i>Laravel 12, Filament 4, Docker, Vite</i>
+      <b><a href="https://gitlab.com/marianogd98/servi-suite-project">Servi Suite (Open Source Helpdesk)</a></b>
+      <i>Laravel 12, Filament 4, Docker, Vite</i><br />
       An open-source helpdesk platform built from scratch for comprehensive service and repair management. Features a robust architecture supporting ticket workflows and state automation.
     </td>
     <!-- Tarjeta Proyecto 2 -->
@@ -68,7 +68,7 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
         <img src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=600&auto=format&fit=crop" width="100%" alt="Preview UNIMAR">
       </a>
       <b><a href="https://www.unimar.edu.ve">Web Platform - Universidad de Margarita</a></b>
-      <i>Software Architecture, DB Optimization, Clean Code</i><br /><br />
+      <i>Software Architecture, DB Optimization, Clean Code</i><br />
       Redesign of the corporate database structure and core system logic. Implemented SOLID principles to refactor controllers, reducing redundancy by 60% and improving access speed by 80%.
     </td>
   </tr>

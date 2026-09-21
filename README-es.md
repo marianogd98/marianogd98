@@ -51,7 +51,6 @@ Mi trayectoria como Profesor Universitario me otorga una ventaja única: no solo
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />

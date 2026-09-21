@@ -80,11 +80,12 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
 ### 📈 GitHub Analytics
 
 <div align="center">
-
-[![Mariano's Stats](https://github-readme-stats-2vcj2kz7c-marianogd98.vercel.app/api?username=marianogd98&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/marianogd98?tab=repositories)
-
-[![Top Languages](https://github-readme-stats-2vcj2kz7c-marianogd98.vercel.app/api/top-langs/?username=marianogd98&layout=compact&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9)](https://github.com/marianogd98?tab=repositories)
-
+  <a href="https://github.com/marianogd98?tab=repositories">
+    <img src="https://github-readme-stats-psi-red-91.vercel.app/api?username=marianogd98&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" alt="Mariano's Stats" />
+  </a>
+  <a href="https://github.com/marianogd98?tab=repositories">
+    <img src="https://github-readme-stats-psi-red-91.vercel.app/api/top-langs/?username=marianogd98&layout=compact&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
+  </a>
 </div>
 
 ### 📫 Let's Connect!

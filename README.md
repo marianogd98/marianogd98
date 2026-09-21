@@ -58,7 +58,7 @@ My background as a University Professor uniquely positions me to build not just 
 
 ---
 
-### 🚀 High-Impact Featured Projects
+### 🔥 High-Impact Featured Projects
 
 <table bordercolor="#30363D">
   <tr>

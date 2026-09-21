@@ -70,8 +70,12 @@ Construyendo soluciones integrales y escalables para problemas complejos. Con m�
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianogd98&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&text_color=777BB4&icon_color=2496ED&locale=es" height="165" alt="Estadísticas de Mariano" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianogd98&layout=compact&theme=transparent&hide_border=true&title_color=2496ED&text_color=777BB4&locale=es" height="165" alt="Lenguajes Principales" />
+  <a href="https://github.com/marianogd98?tab=repositories">
+    <img src="https://github-readme-stats-psi-red-91.vercel.app/api?username=marianogd98&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=es" height="165" alt="Estadísticas de Mariano" />
+  </a>
+  <a href="https://github.com/marianogd98?tab=repositories">
+    <img src="https://github-readme-stats-psi-red-91.vercel.app/api/top-langs/?username=marianogd98&layout=compact&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&locale=es" height="165" alt="Lenguajes Principales" />
+  </a>
 </div>
 
 ---

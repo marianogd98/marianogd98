@@ -7,7 +7,7 @@
   </a>
 </div>
 
-# Mariano Garcia 
+# 🚀 Hi there, I'm Mariano Garcia 
 ### `Software Architect` | `Senior Full-Stack Engineer` | `Tech Lead`
 
 Transforming complex business requirements into highly scalable, performant software solutions. With over 6 years of engineering experience, I specialize in designing robust architectures, leading technical teams, and driving operational excellence across the entire software development lifecycle. 
@@ -49,6 +49,7 @@ My background as a University Professor uniquely positions me to build not just 
 **Data, DevOps & Cloud:**
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />

@@ -14,6 +14,8 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
 **Frontend:**
@@ -22,6 +24,7 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
 **Database, DevOps & OS:**
@@ -41,32 +44,31 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
   <tr>
     <!-- Tarjeta Proyecto 1 -->
     <td width="50%" valign="top">
-      <a href="[URL_DEL_PROYECTO_O_REPOSITORIO_1](https://gitlab.com/marianogd98/servi-suite-project)">
+      <a href="URL_DEL_PROYECTO_O_REPOSITORIO_1">
         <!-- Reemplaza el src con la URL de la captura de pantalla de tu proyecto -->
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600&auto=format&fit=crop" width="100%" alt="Preview Servi Suite">
       </a>
       <br />
-      <b><a href="[URL_DEL_PROYECTO_O_REPOSITORIO_1](https://gitlab.com/marianogd98/servi-suite-project)">Servi Suite (Open Source Helpdesk)</a></b>
+      <b><a href="URL_DEL_PROYECTO_O_REPOSITORIO_1">Servi Suite (Open Source Helpdesk)</a></b>
       <br />
       <i>Laravel 12, Filament 4, Docker, Vite</i>
       <br />
       <br />
       Plataforma tipo helpdesk construida desde cero para la gestión integral de servicios y reparaciones. Arquitectura robusta con soporte para flujos de tickets y automatización de estados.
     </td>
-    
     <!-- Tarjeta Proyecto 2 -->
     <td width="50%" valign="top">
-      <a href="URL_DEL_PROYECTO_O_REPOSITORIO_2">
+      <a href="https://www.unimar.edu.ve">
         <!-- Reemplaza el src con la URL de la captura de pantalla de tu proyecto -->
-        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600&auto=format&fit=crop" width="100%" alt="Preview Inventory System">
+        <img src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=600&auto=format&fit=crop" width="100%" alt="Preview UNIMAR">
       </a>
       <br />
-      <b><a href="URL_DEL_PROYECTO_O_REPOSITORIO_2">Sistema de Gestión de Inventario B2B</a></b>
+      <b><a href="https://www.unimar.edu.ve">Plataforma Web - Universidad de Margarita</a></b>
       <br />
-      <i>.NET, CQRS, MediatR, EF Core, SQL Server</i>
+      <i>Arquitectura de Software, Optimización de BD, Clean Code</i>
       <br />
       <br />
-      Sistema empresarial de alto rendimiento. Implementa arquitectura orientada a eventos para procesar de manera eficiente y escalable el flujo transaccional y el consumo de inventario.
+      Rediseño de la estructura de base de datos corporativa y lógica del sistema central. Se implementaron principios SOLID para refactorizar controladores, reduciendo la redundancia en un 60% y mejorando la velocidad de acceso en un 80%.
     </td>
   </tr>
 </table>
@@ -88,7 +90,9 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
 <div align="center">
   <a href="https://www.linkedin.com/in/marianogd98"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:marianogd98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/584120939551"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/marianogd98"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://x.com/marianogd98"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/marianogd98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discordapp.com/users/TU_DISCORD_ID_AQUI"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discordapp.com/users/TU_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>

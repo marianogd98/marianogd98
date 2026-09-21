@@ -83,6 +83,7 @@ Building scalable, end-to-end solutions for complex problems. With over 6 years 
   <a href="https://github.com/marianogd98?tab=repositories">
     <img src="https://github-readme-stats-2vcj2kz7c-marianogd98.vercel.app/api?username=marianogd98&show_icons=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=false" height="165" alt="Mariano's Stats" />
   </a>
+  <br />
   <a href="https://github.com/marianogd98?tab=repositories">
     <img src="https://github-readme-stats-2vcj2kz7c-marianogd98.vercel.app/api/top-langs/?username=marianogd98&layout=compact&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&hide_border=false" height="165" alt="Top Languages" />
   </a>
